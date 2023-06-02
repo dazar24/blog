@@ -51,7 +51,7 @@ IndexScreen.navigationOptions = ({navigation}) => {
           </TouchableOpacity>
         ),
       };
-}
+};
 
 const styles = StyleSheet.create({
     row: {
